@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nsiikak
-- 👀 I’m interested in machine learning and data science.
-- 🌱 I’m currently learning c++ and javascript programming languages.
-- 💞️ I’m looking to collaborate on projects concerning python.
+- 👀 I’m interested in machine learning, data science and Backend web development.
+- 🌱 I’m currently learning more about the aforementioned areas of interest.
+- 💞️ I’m looking to collaborate on projects concerning data science and backend web development.
 - 📫 How to reach me ... via my email: nsikakebong98@gmail.com
 
 <!---

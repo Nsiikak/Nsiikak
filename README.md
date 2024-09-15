@@ -28,7 +28,7 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Backend Web Dev
 
 ## 📫 Get in Touch
 - **Email**: [nsikakebong98@gmail.com](mailto:nsikakebong98@gmail.com)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nsikak-abasi-ebong-78a0b1264/)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/nsikak-abasi-ebong-78a0b1264/?originalSubdomain=ng)
 
 ## 🌟 Highlights
 - 🌍 Campus Director for Babcock University at the Millennium Fellowship Class of 2024

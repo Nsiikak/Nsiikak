@@ -1,9 +1,5 @@
 # Hi there, I'm Nsikak-Abasi Ebong 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/Nsiikak?label=Follow&style=social)](https://github.com/Nsiikak)
-[![Profile views](https://komarev.com/ghpvc/?username=Nsiikak&color=brightgreen)](https://github.com/Nsiikak)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nsikak-abasi-ebong/)
-
 ## 👀 About Me
 I’m a passionate **Machine Learning**, **Data Science**, and **Backend Web Development** enthusiast. Constantly exploring new technologies to solve real-world problems and improve efficiency. 
 
@@ -20,11 +16,6 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Backend Web Dev
 - **Databases**: Firebase, SQL, NoSQL (MongoDB)
 - **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow, Pandas
 - **Backend**: RESTful APIs, GraphQL, Authentication, Database Management
-
-## 📊 GitHub Stats
-[![Nsikak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsiikak&show_icons=true&theme=radical)](https://github.com/Nsiikak)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nsiikak&layout=compact&theme=radical)](https://github.com/Nsiikak)
 
 ## 📫 Get in Touch
 - **Email**: [nsikakebong98@gmail.com](mailto:nsikakebong98@gmail.com)

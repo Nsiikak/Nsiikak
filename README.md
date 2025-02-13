@@ -12,9 +12,9 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Backend Web Dev
 
 ## 🛠️ Tech Stack
 - **Languages**: Python, JavaScript, TypeScript, Kotlin
-- **Frameworks**: NestJS, Express.js, Django
+- **Frameworks**: NestJS, Express.js, Django, Node.js, React.js
 - **Databases**: Firebase, SQL, NoSQL (MongoDB)
-- **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow, Pandas
+- **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow
 - **Backend**: RESTful APIs, GraphQL, Authentication, Database Management
 
 ## 📫 Get in Touch

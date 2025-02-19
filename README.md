@@ -1,4 +1,4 @@
-# Hi there, I'm Nsikak-Abasi Ebong 👋
+# Hi there, I'm Nsikak-Abasi Ebong.👋
 
 ## 👀 About Me
 I’m a passionate **Machine Learning**, **Data Science**, and **Backend Web Development** enthusiast. Constantly exploring new technologies to solve real-world problems and improve efficiency. 

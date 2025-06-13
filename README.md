@@ -31,7 +31,7 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Fullstack Web D
 
 ⭐️ **"Stay curious and keep building!"**
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nsiikak)](https://git.io/streak-stats)
 <!---
 Nsiikak/Nsiikak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

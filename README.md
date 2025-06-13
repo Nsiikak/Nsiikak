@@ -31,6 +31,8 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Fullstack Web D
 
 ⭐️ **"Stay curious and keep building!"**
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nsiikak&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nsiikak)](https://git.io/streak-stats)
 <!---
 Nsiikak/Nsiikak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

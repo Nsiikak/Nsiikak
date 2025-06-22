@@ -12,7 +12,7 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Fullstack Web D
 - Backend web development with a focus on scalability and performance
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, TypeScript, Kotlin
+- **Languages**: Python, JavaScript, TypeScript, Kotlin,Go,HTML
 - **Frameworks**: NestJS, Express.js, Django, Node.js, React.js,TailwindCSS
 - **Databases**: Firebase, SQL, NoSQL (MongoDB)
 - **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow

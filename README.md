@@ -7,7 +7,7 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Fullstack Web D
 
 💞️ **Looking to Collaborate**: I'm eager to collaborate on projects that involve:
 - Data science and analytics
-- Machine learning solutions
+- Machine learning solutions and integration
 - Frontend web development with a focus on creating responsive, user friendly, and visually appealing interfaces.
 - Backend web development with a focus on scalability and performance
 

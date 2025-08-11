@@ -15,7 +15,7 @@ I’m a passionate **Machine Learning**, **Data Science**, and **Fullstack Web D
 - **Languages**: Python, JavaScript, TypeScript, Java, Kotlin,Go,HTML,Rust,C++
 - **Frameworks**: NestJS, Express.js, Django, Node.js, React.js,TailwindCSS
 - **Databases**: Firebase, SQL(MySQL & PostgreSQL), NoSQL (MongoDB), Redis
-- **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow
+- **Tools & Platforms**: Docker, Git, GitHub Actions, Firebase, TensorFlow, Render
 - **Backend**: RESTful APIs, GraphQL, Authentication, Database Management
 
 ## 📫 Get in Touch
